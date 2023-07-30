@@ -1,0 +1,9 @@
+
+.navbar{
+    margin-bottom: 6px;
+}
+.registration-sec{
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+}
